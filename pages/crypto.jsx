@@ -34,7 +34,7 @@ const crypto = () => {
           This app was built using React JS and is hosted on AWS S3. This app supports user authentication. using AWS Amplify. 
           Users can create a new account using their email address and then they can log in to save Course which they can take at any time. 
           This is possible by creating a storage in AWS S3 and AWS Amplify at the time of user registration. Another feature of this
-          the app is dynamic routing via the "React Router DOM" package. Payments are also processed through google pay, paypal, CardNet, 
+          the app is dynamic routing via the React Router DOM package. Payments are also processed through google pay, paypal, CardNet, 
           These transaction APIs allow you to process the purchase of a specific course, 
           or you can select a monthly membership to have access to new content and different topics that you want to learn.
           </p>
