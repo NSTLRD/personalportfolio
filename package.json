@@ -12,11 +12,7 @@
     "@heroicons/react": "v1",
     "firebase": "^9.8.3",
     "gh-pages": "^4.0.0",
-<<<<<<< HEAD
     "next": "^13.2.3",
-=======
-    "next": "^13.2.2",
->>>>>>> bc04acab2c7b1e62a5a1e2fd9830f1b52fe8baa8
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-icons": "^4.3.1"
