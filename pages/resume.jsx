@@ -179,7 +179,7 @@ const resume = () => {
           </ul>
         </div>
         <div className='py-6'>
-          <a href="https://docs.google.com/document/d/1jrLIm8Tp7ZaFglc9yTWtdCa7JzOCnyKG/edit?usp=sharing&ouid=110647769504236128669&rtpof=true&sd=true" download class="fixed bottom-6 right-6 bg-blue-500 text-white flex items-center justify-center w-12 h-12 rounded-full hover:bg-blue-600">
+          <a href="https://docs.google.com/document/d/1jrLIm8Tp7ZaFglc9yTWtdCa7JzOCnyKG/edit?usp=sharing&ouid=110647769504236128669&rtpof=true&sd=true" download className="fixed bottom-6 right-6 bg-blue-500 text-white flex items-center justify-center w-12 h-12 rounded-full hover:bg-blue-600">
             <DownloadIcon className="w-6 h-6" />
          </a>
         </div>
