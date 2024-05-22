@@ -82,6 +82,9 @@ const Navbar = () => {
               <Link href='/resume'>Resume</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
+            <Link href='/privacy-policy'>Privacy Policy</Link>
+          </li>
+            <li className='ml-10 text-sm uppercase hover:border-b'>
               <Link href='/#contact'>Contact</Link>
             </li>
           </ul>
